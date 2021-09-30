@@ -1,0 +1,15 @@
+.callback-wrapper {
+  margin: 10px auto;
+  width: 100%;
+  max-width: 300px;
+  border: 1px solid red;
+  padding: 10px;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.callback-wrapper button {
+  background-color: transparent;
+  padding: 10px;
+  color: green;
+}

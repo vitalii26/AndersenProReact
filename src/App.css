@@ -1,1 +1,18 @@
+.nav {
+  list-style: none;
+  display: flex;
+}
 
+.nav li {
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+.nav a {
+  text-decoration: none;
+  color: red;
+}
+
+.nav a.active {
+  color: green;
+}
