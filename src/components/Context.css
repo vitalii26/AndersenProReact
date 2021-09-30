@@ -1,0 +1,23 @@
+.wrapper {
+  margin: 10px auto;
+  width: 100%;
+  max-width: 500px;
+  text-align: center;
+}
+
+.wrapper button {
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.dark {
+  color: violet;
+  background-color: black;
+  border: 1px solid violet;
+}
+
+.light {
+  color: green;
+  background-color: white;
+  border: 1px solid green;
+}

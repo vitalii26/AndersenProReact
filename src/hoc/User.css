@@ -1,0 +1,17 @@
+.user-card {
+  margin: 20px auto;
+  width: 100%;
+  max-width: 500px;
+  border: 1px solid blue;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px 0 blue;
+  text-align: center;
+}
+
+.user-card__name {
+  color: blueviolet;
+}
+
+.user-card__contacts {
+  text-align: center;
+}
